@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Html Learning</title>
+</head>
+<body>
+    <h1 id=01>Selamat Datang di Website Saya</h1>
+    <p>Saya sedang belajar Html.<br>belajar dari nol.</p>
+    <p>belajar membuat paragraf.</p>
+    <p>belajar membuat garis</p>
+    <hr>
+    <h3 id=02>Belajar Menautkan Link </h3>
+    <a href="file:///D:/TEST%20HTML/Percobaan%20Kedua.html">Klik Disini<a/>
+    <a href="halaman-lain.html">Tidak bisa diakses</a>
+
+    <h3 id=03>Belajar Menautkan Link #2</h3>
+    <p>Masih belajar lebih jauh.<br>Mudah mudahan bisa lebih baik.</p>
+    <a href="#06">Belajar Menyisipkan video </a>
+
+    <h3 id=04>Belajar Menyisipkan Gambar</h3>
+    <p>Saya akan menampilkan gambar kucing dibawah ini</p>
+    <img src="D:\TEST HTML\kucing.jpg" alt=Kucing>
+    <img src="D:\TEST HTML\beruang.jpg" alt=Beruang>
+
+    <h3 id=05>Belajar Menyisipkan Suara</h3>
+    <p>Sound Kucing</p>
+    <audio src="D:\TEST HTML\kucingsuara.mp3" controls></audio>
+
+    <h3 id=06>Belajar Menyisipkan Video</h3>
+    <p><strong>Kucing Imut</strong>.<br>Apakah kalian tahu?Bahwa kucing adalah hewan favorit saya</p>
+    <video src="D:\TEST HTML\meng.mp4" controls></video>
+    <p><strong>Gawr Gura</strong> </p>
+    <video src="D:\TEST HTML\gura.mp4" controls></video>
+
+    <h3 id=07>Belajar Membuat List</h3>
+    <p><strong>Unorddered List</strong></p>
+    <ul>
+    <li>nomer 1</li>
+    <li>nomer 2</li>
+    </ul>
+    <p><strong>List Workout saya</strong></p>
+    <ol>
+    <li>Back,Bicep,Rear delt</li>
+    <li>Chest,Shoulder,Triceps</li>
+    <li>Core,Lower Back,Legs</li>
+    </ol>
+    <p>Istilah Dalam Bahasa Pemproggraman</p>
+    <dl>
+    <dt><strong>HTML</strong></dt>
+    <dd>HyperText Markup Language</dd>
+    <dt><strong>CSS</strong></dt>
+    <dd>Cascading Style Sheets</dd>
+    </dl>
+</body>
+</html>
